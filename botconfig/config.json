@@ -1,0 +1,48 @@
+{
+    "token": "OTQ0MjUxNDIzNTIzMjIxNTQ0.Yg-4qg.aGy5TpJn7LLcLfYPYdo3qIjwADo",
+    "prefix": "p!",
+    "ownerIDS": [
+        "759717127484604437", "761970201910050826"
+    ],
+    "fnbr": "fa923edb-ce9c-4a1c-b118-612da21c3f6b",
+    "fortnitetracker": "550ae53d-e0cd-48d6-9fa7-ce996c50dc6c",
+    "memer_api": "uII6IcpDLyc",
+    "status": {
+        "text": "{prefix}help | PythonNodes",
+        "text2": "{guildcount} Servers",
+        "type": "STREAMING",
+        "url": "https://twitch.tv/#"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "node03.lavalink.eu",
+                "port": 2333,
+                "password": "Raccoon"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+        "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": false,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": false,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
