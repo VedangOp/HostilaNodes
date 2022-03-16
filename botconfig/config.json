@@ -1,6 +1,6 @@
 {
-    "token": "OTUzMTk1MDI4ODkxNzI1ODU0.YjBCDA.pAvU7VFOoU2DS3fmVdYC9Nm5f8Q",
-    "prefix": "p!",
+    "token": "OTUzNTM0NjMzMDQ2MzM1NTAx.YjF-VA.a4RYipAlKJmaKGavlZlZOVmhk0o",
+    "prefix": ">>",
     "ownerIDS": [
         "759717127484604437", "761970201910050826"
     ],
@@ -9,7 +9,7 @@
     "memer_api": "uII6IcpDLyc",
     "status": {
         "text": "{prefix}help | PythonNodes",
-        "text2": "{guildcount} Servers",
+        "text2": "{membercount} Members",
         "type": "STREAMING",
         "url": "https://twitch.tv/#"
     },
