@@ -391,7 +391,7 @@ function generateQueueEmbed(client, guildId, leave){
         .setFooter(client.getFooter(es))
         .setImage(guild.banner ? guild.bannerURL({size: 4096}) : "")
         .setTitle(`Start Listening to Music, by connecting to a Voice Channel and sending either the **SONG LINK** or **SONG NAME** in this Channel!`)
-        .setDescription(`> *I support <:Youtube:950445233118773248> Youtube, <:Spotify:950446047698755614> Spotify, <:soundcloud:825095625884434462> Soundcloud and direct MP3 Links!*`)
+        .setDescription(`> *I support <:Youtube:950445233118773248> Youtube, <:Spotify:950446047698755614> Spotify, <:soundcloud:951149469888553100> Soundcloud and direct MP3 Links!*`)
     ]
     const player = client.manager.players.get(guild.id);
     if(!leave && player && player.queue && player.queue.current){
