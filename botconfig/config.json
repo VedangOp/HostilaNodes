@@ -8,17 +8,17 @@
     "fortnitetracker": "550ae53d-e0cd-48d6-9fa7-ce996c50dc6c",
     "memer_api": "uII6IcpDLyc",
     "status": {
-        "text": "{prefix}help | PythonNodes",
+        "text": "{prefix}help | Hostila Nodes",
         "text2": "{membercount} Members",
-        "type": "STREAMING",
+        "type": "PLAYING",
         "url": "https://twitch.tv/#"
     },
     "clientsettings": {
         "nodes": [
             {
-                "host": "node03.lavalink.eu",
-                "port": 2333,
-                "password": "Raccoon"
+                "host": "lavalink.oops.wtf",
+                "port": 2000,
+                "password": "www.freelavalink.ga"
             }
         ]
     },
